@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-## Welcome to [Horiseon](https://vitokwolf.github.io/Horiseon-SEO/).
+## [Welcome to Horiseon](https://vitokwolf.github.io/Horiseon-SEO/).
 ## On this website we provide brief information about our services.
 
 _What changes I have made:_
@@ -11,7 +11,7 @@ _What changes I have made:_
 *Updated the css code by merging same properties for same classes, thus eliminating the need to repeat the code.
 *Updated the selectors to follow a more easy to follow semantic structure.
 
-[GitHub](https://github.com/vitokwolf/Horiseon-SEO) repository
+[GitHub repository](https://github.com/vitokwolf/Horiseon-SEO)
 
 ![GitHub Logo](/ScreenShots/Content-footer.png)
 ![GitHub Logo](/ScreenShots/Header-Hero.png)
