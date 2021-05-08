@@ -13,5 +13,5 @@ _What changes I have made:_
 
 [GitHub](https://github.com/vitokwolf/Horiseon-SEO)
 
-./ScreenShots/Content-footer.png
-./ScreenShots/Header-Hero.png
+/ScreenShots/Content-footer.png
+/ScreenShots/Header-Hero.png
